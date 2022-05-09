@@ -753,6 +753,10 @@ section {
   color: #ffffff;
 }
 
+.resume-home .resume-social a {
+  color: #ffffff;
+}
+
 .resume-home .resume-social ul li:hover {
   -webkit-box-shadow: 0 16px 14px 0 rgba(0, 0, 0, 0.1);
           box-shadow: 0 16px 14px 0 rgba(0, 0, 0, 0.1);
